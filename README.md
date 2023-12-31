@@ -1,11 +1,5 @@
 - 👋 Hi, I’m @HerrMustafaAladdin
-- 👀 I’m interested in [
--                         Frontend =>  ['HTML', 'CSS', 'BOOTSTRAP', 'SCSS', 'JAVASCRIPT', JQUERY],
--                         Backend  =>  ['PHP', LARAVEL, 'MYSQL']
--                       ]
+- 👀 I’m interested in [ Frontend =>  ['HTML', 'CSS', 'BOOTSTRAP', 'SCSS', 'JAVASCRIPT', JQUERY], Backend  =>  ['PHP', LARAVEL, 'MYSQL'] ]
 - 🌱 I’m currently learning Laravel
 - 💞️ I am looking for cooperation with everyone
-- 📫 How to reach me [
--   'Email'      =>  'Mostafa.alaeddin@outlook.de',
--   'Cellphone'  =>  '+989217625850'
-- ]
+- 📫 How to reach me ['Email'      =>  'Mostafa.alaeddin@outlook.de', 'Cellphone'  =>  '+989217625850' ]
